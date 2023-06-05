@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Pycharm Projects\\The AJ\\brain\\all_data\\model.tflearn"
+all_model_checkpoint_paths: "D:\\Pycharm Projects\\The AJ\\brain\\all_data\\model.tflearn"
